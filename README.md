@@ -1,0 +1,2 @@
+# Phishing-Detection-System-Through-Hybrid-Machine-Learning-Model-Based-URL
+This project detects phishing websites by analyzing URL features using a hybrid machine learning model. It combines Logistic Regression, SVM, and Decision Tree through voting to improve accuracy. The system identifies suspicious patterns in URLs and classifies them as legitimate or phishing, helping users stay safe from online attacks.
